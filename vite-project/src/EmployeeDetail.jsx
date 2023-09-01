@@ -34,7 +34,7 @@ function EmployeeDetail(){
             </div>
             <div>
                 <button className='btn btn-primary me-2'>Edit</button>
-                <button className="btn btn-danger" onClick={handleLogout}>Logout</button>
+                <button className="btn btn-danger" onClick={handleLogout}>Logout </button>
             </div>
         </div>
     </div>
